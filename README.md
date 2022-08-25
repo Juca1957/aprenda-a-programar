@@ -19,6 +19,7 @@ e me permitirá melhor ãjustar
 Apesar de já ter programado em outras linguagens, ainda não havia programado em JavaScript. 
 
 Também é novo para mim todo o ambiente de trabalho adotado 
+- JavaScript
 - Visual Studio
 - Node,js
 - Git Bash
